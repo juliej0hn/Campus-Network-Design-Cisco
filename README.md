@@ -3,7 +3,6 @@
 **Course:** CSC230 — Computer Networks  
 **Institution:** Misr International University (MIU), Faculty of Computer Science  
 **Instructor:** Dr. Mostafa Abdelrahman  
-**Team Leader:** Maryam Tamer Fawzi — 2024/03209  
 
 ---
 
@@ -145,13 +144,9 @@ Designed a VLSM addressing scheme from the base network `172.20.5.0/18`. Subnets
 - Ping tests between all devices across all sites
 - Verified IP addressing with `show ip interface brief` on all devices
 - Verified routing tables with `show ip route` on all routers
-- Screenshots captured for all tests
+
 
 ---
-
-### Part 11 — Documentation & Handover (10%)
-- Full configuration documentation prepared in `.docx` / PPT format
-- Includes all routing tables, ping/traceroute screenshots, and troubleshooting notes
 
 ---
 
@@ -181,13 +176,5 @@ Designed a VLSM addressing scheme from the base network `172.20.5.0/18`. Subnets
 
 ---
 
-## 👤 Author
-
-**Maryam Tamer Fawzi** (2024/03209) — Team Leader  
-CSC230 Computer Networks, Misr International University
 
 ---
-
-## 📄 License
-
-This project is for educational purposes. Feel free to use it as a reference or learning resource.
